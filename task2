@@ -1,0 +1,9 @@
+TASK 2 (2 days): advanced python
+Basic web crawler using python to be deployed on linux server. (ETA: 2 days)
+Start off by crawling this page : https://dmoz-odp.org/Sports/Events/
+Find any external (which are not dmoz-odp) website URLs that you find.
+Crawl the first 10 website URLs that you find and store these 10 links with the title of the 10 URLs in a local DB.
+As task submission, provide video of linux crawling + DB storage on a local linux server/VM.
+We need classes, objects, docstrings and functions implemented.
+
+Deadline 22th Jan 2020 8PM. Let me know if any doubts. DM me your response.
